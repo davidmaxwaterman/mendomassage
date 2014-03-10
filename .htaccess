@@ -1,0 +1,103 @@
+# Use PHP54 Single php.ini as default
+AddHandler application/x-httpd-php54s .php
+#AddHandler application/x-httpd-php4 .php
+
+# AddHandler server-parsed .html
+# AddHandler server-parsed .htm
+
+# Prohibit directory listing folders
+Options -Indexes 
+
+ErrorDocument 400 /errors/badrequest.shtml
+ErrorDocument 401 /errors/authreqd.shtml
+ErrorDocument 403 /errors/forbid.shtml
+ErrorDocument 404 /errors/notfound.shtml
+ErrorDocument 500 /errors/serverr.shtml
+
+# CSS
+AddType text/css .css
+
+# XHTML
+AddType application/xhtml+xml .xhtml
+
+# XML
+AddType text/xml .xml
+
+# SVG
+AddType image/svg+xml .svg .svgz
+AddEncoding x-gzip .svgz
+
+# Active Server Pages 
+# AddType text/html .asp
+
+# Favicons
+AddType image/vnd.microsoft.icon .ico
+
+# Macromedia
+AddType application/x-shockwave-flash .swf
+AddType application/x-director .dir .dcr .dxr .fgd
+AddType application/x-authorware-map .aam
+AddType application/x-authorware-seg .aas
+AddType application/x-authorware-bin .aab
+AddType image/x-freehand .fh4 .fh5 .fh7 .fhc .fh
+
+# Adobe PDF
+AddType application/pdf .pdf
+
+# Real
+AddType application/vnd.rn-realmedia .rm
+AddType audio/vnd.rn-realaudio .ra .ram
+AddType video/vnd.rn-realvideo .rv
+AddType audio/x-pn-realaudio-plugin .rpm
+
+# Microsoft multimedia
+AddType video/x-ms-asf .asf .asx
+AddType audio/x-ms-wma .wma
+AddType audio/x-ms-wax .wax
+AddType video/x-ms-wmv .wmv
+AddType video/x-ms-wvx .wvx
+AddType video/x-ms-wm .wm
+AddType video/x-ms-wmx .wmx
+AddType application/x-ms-wmz .wmz
+AddType application/x-ms-wmd .wmd
+
+# MPEG
+AddType audio/x-mpegurl .m3u
+
+# Binary Compressed files and archives
+AddType application/zip .zip
+AddType application/x-gzip .gz
+AddType application/x-gtar .gtar
+AddType application/x-rar-compressed .rar
+AddType application/octet-stream .dmg
+AddType application/octet-stream .doc
+AddType application/octet-stream .dot
+
+# Java
+AddType application/x-java-applet .class
+
+# Quicktime movies
+AddType video/quicktime .mov .qt
+
+# XBM files
+AddType image/x-xbitmap .xbm
+
+# WAV files
+AddType audio/x-wav .wav
+
+# Bittorrent
+# AddType application/x-bittorrent .torrent
+# RewriteCond %{HTTP_HOST} ^mcmr.thornburns.com$ [OR]
+# RewriteCond %{HTTP_HOST} ^www.mcmr.thornburns.com$
+# RewriteRule ^(.*)$ "http\:\/\/www\.mcmrandhs\.org\/$1" [R=301,L]
+
+
+# RewriteCond %{HTTP_HOST} ^mcmrandhs.thornburns.com$
+# RewriteRule ^(.*)$ "http\:\/\/www\.mendorailhistory\.org\/$1" [R=301,L]
+
+# RewriteCond %{HTTP_HOST} ^mcmr.thornburns.com$
+# RewriteRule ^(.*)$ "http\:\/\/www\.mendorailhistory\.org\/$1" [R=301,L]
+
+# BEGIN WordPress
+
+# END WordPress

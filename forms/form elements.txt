@@ -1,0 +1,27 @@
+Form fields:
+
+First_Name
+Last_Name
+Area
+Phone
+email_1
+Date
+Time
+Treatment
+Location
+LocationOther
+No_People
+test_1
+
+[$First_Name]
+[$Last_Name]
+[$Area]
+[$Phone]
+[$email_1]
+[$Date]
+[$Time]
+[$Treatment]
+[$Location]
+[$LocationOther]
+[$No_People]
+[$test_1]

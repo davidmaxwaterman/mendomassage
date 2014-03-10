@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Mendocino Coast Massage</title>
+<meta name="Description" content="Along the Mendocino Coast, we can relax, rebalance and refresh you. Meeting your specific needs and preferences, we offer a Swedish, Deep Tissue, Healing Stone, Acupressure, Reiki and pregnancy massage in your choice of location." />
+<meta name="Keywords" content="massage,swedish massage,reiki,deep tissue massage,healing stone massage,mendocino,mendocino coast,elk,fort bragg,accupressure" />
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../css/styles.css" type="text/css" />
+<link rel="stylesheet" type="text/css" href="../scripts/highslide/hs-html_w.css" />
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" href="scripts/highslide/highslide-ie6.css" />
+<![endif]-->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<script type="text/javascript">
+window.onload = clearCurrentLink;
+function clearCurrentLink(){
+    var indexpage = "index.htm"
+    var url = window.location.href;
+    if(url.substr(url.length-1,1)=="/")
+          url = url + indexpage;
+    var a = document.getElementsByTagName("A");
+    for(var i=a.length;i>0;i--)
+        if(a[i-1].href == url.split("#")[0]) 
+            removeNode(a[i-1]);
+}
+function removeNode(n){
+    if(n.hasChildNodes())
+        for(var i=0;i<n.childNodes.length;i++)
+            n.parentNode.insertBefore(n.childNodes[i].cloneNode(true),n);
+    n.parentNode.removeChild(n);
+}
+</script>
+</head>
+<body>
+<div id="wrapper"> 
+  <div id="top">
+    <div id="logo"><a href="../index.htm"><img alt="Mendocino Coast Massage provides relaxing therapy in Mendocino, Fort Bragg, Elk &amp; other coast towns. Mendocino massage." src="../images/logo3.gif" width="313" height="49" border="0" /></a></div>
+    <div class="row2"></div>
+  </div>
+  <div class="clear"></div>
+  <table width="800" border="0" cellspacing="0" cellpadding="0">
+   <tr> 
+    <td valign="top" width="7" bgcolor="#A3A27A" height="22"><img src="../images/corners/gg_ul.gif" width="7" height="7"></td>
+    <td width="786" bgcolor="#A3A27A" ></td>
+    <td valign="top" width="7" bgcolor="#A3A27A" height="22"><img src="../images/corners/gg_ur.gif" width="7" height="7"></td>
+   </tr>
+   <tr bgcolor="FBF2E4"> 
+    <td colspan="3"><img src="../images/clearpixel.gif" width="1" height="1"></td>
+   </tr>
+  </table>
+  <table width="800" border="0" cellspacing="0" cellpadding="0">
+   <tr><td><img src="../images/banner2.jpg" alt="Massage therapy from qualified therapists on the beautiful Mendocino Coast - Fort Bragg, Elk, Mendocino &amp; coastal towns. Mendocino massage." width="800" height="230" /></td></tr>
+   <tr bgcolor="FBF2E4"><td><img src="../images/clearpixel.gif" width="1" height="1" /></td></tr>
+  </table>
+  <table width="800" border="0" cellpadding="0" cellspacing="0">
+   <tr> 
+    <td width="160" bgcolor="#A3A27A" align="left" valign="top"  class="td_nav_margin">
+     <div style="width:154px; height:1px; margin:0; padding:0"><img src="../images/nav_divider.gif" /></div>
+	 <div align="left" class="nav"><a href="index.htm">About Us</a></div>
+	 <div style="width:154px; height:1px; margin:0; padding:0"><img src="../images/nav_divider.gif" /></div>
+	 <div align="left" class="nav"><a href="therapists.htm">Our Therapists</a></div>
+	 <div style="width:154px; height:1px; margin:0; padding:0"><img src="../images/nav_divider.gif" /></div>
+	 <div align="left" class="nav"><a href="benefits.htm">Benefits of Treatment</a></div>
+	 <div style="width:154px; height:1px; margin:0; padding:0"><img src="../images/nav_divider.gif" /></div>
+	 <div align="left" class="nav"><a href="treatments.htm">Treatments</a></div>
+	 <div style="width:154px; height:1px; margin:0; padding:0"><img src="../images/nav_divider.gif" /></div>
+	 <div align="left" class="nav"><a href="prices.htm">Prices</a></div>
+	 <div style="width:154px; height:1px; margin:0; padding:0"><img src="../images/nav_divider.gif" /></div>
+	 <div id="left_side">
+     For a map and directions to  our Elk location <a href="elk_googlemap.htm" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: 650, headingText: 'Location of Mendocino Coast Massage', wrapperClassName: 'titlebar no-footer' } )">click here</a><br /><br />
+      Contact us:<br />
+      (707)&nbsp;877&bull;1835<br />
+      <a href="contact1.htm" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: 620, headingText: 'Send us a message', wrapperClassName: 'titlebar no-footer' } )">Contact us here</a>
+	 </div>
+      </td>
+      <td bgcolor="#FBF2E4" width="1"><img src="../images/clearpixel.gif" width="1" height="1" /></td>
+      <td width="614" align="left" valign="top" bgcolor="#BBBA93">
+      <!-- InstanceBeginEditable name="Content" -->
+      <div id="content">
+          <form name="redirect" align="center" style="padding:0; margin:0;">
+    
+    <h1>Authorization is required to see the requested page.</h1>
+    <p align="left">You provided the wrong username/password. </p>
+    <p align="left">Click the back button and try again or you  will be automatically redirected to our our home page
+      <input name="redirect2" type="text" size="1" maxlength="2"> seconds.</p>
+    <p align="left">If you are not automatically redirected, please clicke <a href="http://www.mendomassage.com/index.htm">here</a>. <br />
+      <br />
+      Thanks, and see you there!  </p>
+    </form>
+      </div>
+<script><!--
+
+/*
+Count down then redirect script
+By JavaScript Kit (http://javascriptkit.com)
+Over 400+ free scripts here!
+*/
+
+//change below target URL to your own
+var targetURL="http://www.mendomassage.com/index.htm"
+//change the second to start counting down from
+var countdownfrom=4
+var currentsecond=document.redirect.redirect2.value=countdownfrom+1
+function countredirect(){
+if (currentsecond!=1){
+currentsecond-=1
+document.redirect.redirect2.value=currentsecond
+}
+else{
+window.location=targetURL
+return
+}
+setTimeout("countredirect()",1000)
+}
+countredirect()
+//-->
+</script>  
+      <!-- InstanceEndEditable -->
+      </td>
+    </tr>
+    <tr> 
+      <td align="left" valign="bottom" bgcolor="#A3A27A"><img src="../images/corners/gg_ll.gif" width="7" height="7" /></td>
+      <td bgcolor="#FBF2E4"><img src="../images/clearpixel.gif" width="1" height="1" /></td>
+      <td valign="bottom" align="right" bgcolor="#BBBA93"><img src="../images/corners/gg_lr.gif" width="7" height="7" /></td>
+    </tr>
+  </table>  
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+    <td align="center">
+    <div id="footer">
+    <a href="index.htm" >About Us</a><img src="../images/bottomnav_divider.gif" width="21" height="7">
+	<a href="therapists.htm">Our Therapists</a><img src="../images/bottomnav_divider.gif" width="21" height="7">
+	<a href="benefits.htm">Benefits</a><img src="../images/bottomnav_divider.gif" width="21" height="7">
+	<a href="treatments.htm">Treatments</a><img src="../images/bottomnav_divider.gif" width="21" height="7">
+	<a href="prices.htm">Prices</a><img src="../images/bottomnav_divider.gif" width="21" height="7">
+	<a href="contact1.htm" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: 620, headingText: 'Send us a message', wrapperClassName: 'titlebar no-footer' } )">Contact</a><img src="../images/bottomnav_divider.gif" width="21" height="7">
+	<a href="elk_googlemap.htm" onclick="return hs.htmlExpand(this, { objectType: 'iframe', width: 650, headingText: 'Location of Mendocino Coast Massage', wrapperClassName: 'titlebar no-footer' } )">Location</a>
+    </div>
+    </td>
+  </tr>
+ </table>
+</div>
+<script type="text/javascript" src="../scripts/highslide/hs_html.packed.js"></script>
+<script type="text/javascript" src="../scripts/highslide/hs_html.config.js"></script>
+</body>
+<!-- InstanceEnd --></html>
