@@ -13,7 +13,7 @@
 .highslide-heading{display:none;font-weight:bold;margin:.4em}
 .highslide-dimming{background:black}
 a.highslide-full-expand{background:url(graphics/fullexpand.gif) no-repeat;display:block;width:34px;height:34px;margin:0 10px 10px 0}
-.highslide-loading{display:block;font-size:9px;font-weight:bold;text-transform:uppercase;text-decoration:none;background-repeat:no-repeat;background-position:3px 1px;color:white;border:1px solid white;background-color:black;background-image:url(/scripts/highslide/graphics/loader.black.gif);padding:3px 3px 3px 22px}
+.highslide-loading{display:block;font-size:9px;font-weight:bold;text-transform:uppercase;text-decoration:none;background-repeat:no-repeat;background-position:3px 1px;color:white;border:1px solid white;background-color:black;background-image:url(graphics/loader.black.gif);padding:3px 3px 3px 22px}
 a.highslide-credits,a.highslide-credits i{color:silver;text-decoration:none;font-size:10px;padding:2px}
 a.highslide-credits:hover,a.highslide-credits:hover i{color:white;background-color:gray}
 .highslide-viewport{display:none;position:fixed;width:100%;height:100%;z-index:1;background:none;left:0;top:0}
