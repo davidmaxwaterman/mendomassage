@@ -30,79 +30,79 @@ function sendmail(user, domain)
 <div id="wrapper" style="width:600px; background-color:#BBBA93">
 <div id="content" style="padding-bottom:7px">
      <img src="images/contact_01_small.gif" width="125" height="112" alt="The Zen symbol of peace &amp; tranquility from relaxing massage therapy in Fort Bragg, Mendocino, Elk &amp; other Mendocino coast towns. Mendocino massage." style="float:right; margin:5px 0 5px 5px" /><h1>Getting in Touch</h1>
-     <p> Our massage studio is a dedicated healing space in a garden setting between the Elk Studio Art Gallery and Queenie's Road House Caf&eacute; on Highway 1 in Elk, California.  We are also happy to meet you at your home, hotel room or vacation house from Fort Bragg to Point Arena.</p>
-     <p class="close">For reservations and rates, fill out the form below or please call Felicity Waterman on  707&bull;877&bull;1835. </p>
+     <p>We have two massage studios. One, in the village of Mendocino at 45180 Main Street across from the ocean and the other in a garden setting between the Elk Studio Art Gallery and Queenie's Road House Café at 6031 SouthHighway 1 in Elk. We are also happy to meet you at your home, hotel room or vacation house from Fort Bragg to Point Arena.</p>
+     <p class="close">For reservations and rates, please fill out the form below or call Felicity Waterman on 707&bull;937 2305 or 707&bull;357 1031.</p>
     <p class="smalltext1" style="color:#4F5A6C">Note: Your personal information will only be used by <a href="index.htm" target="_new">Mendocino Coast Massage</a>.</p>
-	 <div align="center">
+     <div align="center">
        <form action="/cgi-bin/mendomassage.cgi" method="put" name="form_1" id="form_1">
        <div style="background-color:#A3A27A; border-top:#5E4A3B 1px solid; border-right:#5E4A3B 1px solid; width:560px;">
         <table  width="100%" border="0" cellpadding="0" cellspacing="0">
         <tr>
- 	  	 <td width="33%">Name:</td>
-		 <td width="22%"><input class="form_field" name="First_Name" type="text" id="First_Name" size="12" maxlength="12" /></td>
-  		 <td width="35%"><input name="Last_Name" type="text" class="form_field" id="Last_Name" size="15" maxlength="15" /></td>
-  		</tr>
- 		<tr>
-    	 <td>Phone:</td>
-    	 <td>(
-    	   <input name="Area" type="text" class="form_field" id="Area" value="707" size="3" maxlength="3" />
-    	   )</td>
-    	 <td><input name="Phone" type="text" class="form_field" id="Phone" size="15" maxlength="8" /></td>
-  		</tr>
-  		<tr>
-    	 <td>Email:</td>
-    	 <td colspan="2"><input name="email_1" type="text" class="form_field" id="email_1" size="43" maxlength="43" /></td>
-    	 </tr>
-  		<tr>
-    	 <td>Preferred Date &    	   Time:</td>
-    	 <td><input type="text" value="Click to select date" name="Date" id="Date" readonly onFocus="GetDate(this);" class="form_field"></td>
-   		 <td><select name="Time" id="Time" class="form_field" style="background-color:#BBBA93;" >
-   		   <option value="No_Selection" selected="selected">Select time</option>
+         <td width="33%">Name:</td>
+         <td width="22%"><input class="form_field" name="First_Name" type="text" id="First_Name" size="12" maxlength="12" /></td>
+         <td width="35%"><input name="Last_Name" type="text" class="form_field" id="Last_Name" size="15" maxlength="15" /></td>
+        </tr>
+        <tr>
+         <td>Phone:</td>
+         <td>(
+           <input name="Area" type="text" class="form_field" id="Area" value="707" size="3" maxlength="3" />
+           )</td>
+         <td><input name="Phone" type="text" class="form_field" id="Phone" size="15" maxlength="8" /></td>
+        </tr>
+        <tr>
+         <td>Email:</td>
+         <td colspan="2"><input name="email_1" type="text" class="form_field" id="email_1" size="43" maxlength="43" /></td>
+         </tr>
+        <tr>
+         <td>Preferred Date &          Time:</td>
+         <td><input type="text" value="Click to select date" name="Date" id="Date" readonly onFocus="GetDate(this);" class="form_field"></td>
+         <td><select name="Time" id="Time" class="form_field" style="background-color:#BBBA93;" >
+           <option value="No_Selection" selected="selected">Select time</option>
            <option value="9am">9am</option>
-   		   <option value="10am">10am</option>
-   		   <option value="11am">11am</option>
-   		   <option value="Noon">Noon</option>
-   		   <option value="1pm">1pm</option>
-   		   <option value="2pm">2pm</option>
+           <option value="10am">10am</option>
+           <option value="11am">11am</option>
+           <option value="Noon">Noon</option>
+           <option value="1pm">1pm</option>
+           <option value="2pm">2pm</option>
            <option value="3pm">3pm</option>
-   		   <option value="4pm">4pm</option>
-   		   <option value="5pm">5pm</option>
+           <option value="4pm">4pm</option>
+           <option value="5pm">5pm</option>
            <option value="6pm">6pm</option>
            <option value="7pm">7pm</option>
          </select></td>
-   		</tr>
+        </tr>
         <tr>
           <td>Treatment(s) of choice:</td>
-    	  <td colspan="2">Swedish<input name="Treatment" type="checkbox" value="Swedish" style="margin-bottom:-4px" />
+          <td colspan="2">Swedish<input name="Treatment" type="checkbox" value="Swedish" style="margin-bottom:-4px" />
           &nbsp;Deep Tissue<input name="Treatment" type="checkbox" value="Deep Tissue" style="margin-bottom:-4px" />
           &nbsp;Healing Stone<input name="Treatment" type="checkbox" value="Healing Stone" style="margin-bottom:-4px" />
           &nbsp;Acupressure<input name="Treatment" type="checkbox" value="Acupressure" style="margin-bottom:-4px" />
           &nbsp;Reiki<input name="Treatment" type="checkbox" value="Reiki" style="margin-bottom:-4px" />
           &nbsp;Pregnancy<input name="Treatment" type="checkbox" value="Pregnancy" style="margin-bottom:-4px" />
          </td>
-    	</tr>
-  		<tr>
-    	 <td>Preferred location for your massage:</td>
-    	 <td colspan="2">
+        </tr>
+        <tr>
+         <td>Preferred location for your massage:</td>
+         <td colspan="2">
           <div style="padding-bottom:3px"><label class="form_field" style="background-color:transparent"><input name="Location" type="radio" id="Location_0" value="Elk" checked="checked" />Elk</label>
            <label class="form_field" style="background-color:transparent;"><input type="radio" name="Location" value="Other" id="Location_1" />
              Other &nbsp;(please  enter  location below)</label></div>
-  	   	   <textarea name="LocationOther" cols="45" rows="2" class="form_field" id="LocationOther"></textarea></td>
+           <textarea name="LocationOther" cols="45" rows="2" class="form_field" id="LocationOther"></textarea></td>
         </tr>
-  		<tr>
-  		  <td colspan="2">So we know you're a person, what is &quot;7+2&quot; =
-  		    <input name="test_1" type="text" class="form_field" id="textfield" size="1" maxlength="1" /></td>
-  		  <td>Number of massages: 
-  		    <input class="form_field" name="No_People" type="text" id="No_People" size="1" maxlength="1" /></td>
-  		</tr>
-  		<tr>
-  		  <td colspan="3"><div style=" text-align:center; padding: 5px 0 " align="center">
-  		      <input type="submit" name="submit" id="submit" value="Submit" style="color:#FBF2E4; background-color:#BBBA93" />
-  		      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  		      <input type="reset" name="reset" id="reset" value="Reset" style="color:#FBF2E4; background-color:#BBBA93" />
+        <tr>
+          <td colspan="2">So we know you're a person, what is &quot;7+2&quot; =
+            <input name="test_1" type="text" class="form_field" id="textfield" size="1" maxlength="1" /></td>
+          <td>Number of massages: 
+            <input class="form_field" name="No_People" type="text" id="No_People" size="1" maxlength="1" /></td>
+        </tr>
+        <tr>
+          <td colspan="3"><div style=" text-align:center; padding: 5px 0 " align="center">
+              <input type="submit" name="submit" id="submit" value="Submit" style="color:#FBF2E4; background-color:#BBBA93" />
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <input type="reset" name="reset" id="reset" value="Reset" style="color:#FBF2E4; background-color:#BBBA93" />
               </div></td>
-  		</tr>
-	  </table></div>
+        </tr>
+      </table></div>
       </form>
      You can also email us at <a href="javascript:void(0)" onclick="return sendmail('%69%6E%66%6F','%6D%65%6E%64%6F%6D%61%73%73%61%67%65.%63%6F%6D')"><img src="images/info1.gif" alt="info" width="184" height="20" border="0" style="margin-bottom:-5px" /></a>.
      </div>
