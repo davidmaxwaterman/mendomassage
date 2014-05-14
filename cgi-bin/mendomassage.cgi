@@ -126,7 +126,7 @@ print MAIL '<p style="margin-top: 6px; margin-bottom: 6px; font-family:\'Comic S
 print MAIL '<p style="margin-top: 6px; margin-bottom: 6px; font-family:\'Comic Sans MS\', cursive;font-size: 12pt;color: #2B3344;line-height:1.3em">---------/-----------------/------------------</p>'."\n" ;
 print MAIL '<p style="margin-top: 6px; margin-bottom: 6px; font-family:\'Comic Sans MS\', cursive;font-size: 12pt;color: #2B3344;line-height:1.3em">Thank you for contacting us through our website. Below is the information you entered.</p>'."\n" ;
 print MAIL '<p style="margin-top: 6px;margin-bottom: 12px;font-family: \'Comic Sans MS\', cursive; font-size: 12pt;color: #2B3344;line-height:1.3em">Please note that this does not confirm your reservation. One of our therapists will contact you soon to make a final reservation.</p>'."\n" ;
-print MAIL '<p style="margin-top: 6px;margin-bottom: 12px;font-family: \'Comic Sans MS\', cursive; font-size: 12pt;color: #2B3344;line-height:1.3em">If you need to contact us, please call Felicty on 707&bull;877&bull;1835, or reply to this email.</p>'."\n" ;
+print MAIL '<p style="margin-top: 6px;margin-bottom: 12px;font-family: \'Comic Sans MS\', cursive; font-size: 12pt;color: #2B3344;line-height:1.3em">If you need to contact us, please call Felicty on 707&bull;937&bull;2305, or reply to this email.</p>'."\n" ;
 print MAIL '<table width="500" border="0" cellpadding="3" cellspacing="2">'."\n" ;
 print MAIL "  <tr>\n" ;
 print MAIL '    <td width="162" align="right" valign="top"><div align="right" style="font-family:Arial, Helvetica, sans-serif; font-size:11pt">Name:</div></td>'."\n" ;
@@ -186,7 +186,7 @@ print MAIL '<div style="width:550px; background-color:#BBBA93; padding:10px">'."
 print MAIL '<p style="margin-top: 6px; margin-bottom: 9px; font-family:\'Comic Sans MS\', cursive;font-size: 12pt;color: #2B3344;line-height:1.3em">Dear '.$First_Name.',</p>'."\n" ;
 print MAIL '<p style="margin-top: 6px; margin-bottom: 6px; font-family:\'Comic Sans MS\', cursive;font-size: 12pt;color: #2B3344;line-height:1.3em">Thank you for contacting us through our website. Below is the information you entered.</p>'."\n" ;
 print MAIL '<p style="margin-top: 6px;margin-bottom: 12px;font-family: \'Comic Sans MS\', cursive; font-size: 12pt;color: #2B3344;line-height:1.3em">Please note that this does not confirm your reservation. One of our therapists will contact you soon, to make a final reservation.</p>'."\n" ;
-print MAIL '<p style="margin-top: 6px;margin-bottom: 12px;font-family: \'Comic Sans MS\', cursive; font-size: 12pt;color: #2B3344;line-height:1.3em">In the meantime, if you need to contact us, please call Felicty on 707&bull;877&bull;1835, or reply to this email.</p>'."\n" ;
+print MAIL '<p style="margin-top: 6px;margin-bottom: 12px;font-family: \'Comic Sans MS\', cursive; font-size: 12pt;color: #2B3344;line-height:1.3em">In the meantime, if you need to contact us, please call Felicty on 707&bull;937&bull;2305, or reply to this email.</p>'."\n" ;
 print MAIL '<table width="500" border="0" cellpadding="3" cellspacing="2">'."\n" ;
 print MAIL "  <tr>\n" ;
 print MAIL '    <td width="162" align="right" valign="top"><div align="right" style="font-family:Arial, Helvetica, sans-serif; font-size:11pt">Name:</div></td>'."\n" ;
